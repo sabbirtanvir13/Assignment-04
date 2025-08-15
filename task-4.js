@@ -18,4 +18,3 @@ function  isSame(arr1 , arr2 ) {
       }
     return true
 }
-console.log(isSame({data: [2 , 5 , 6] } , [2 , 5 , 6]))
